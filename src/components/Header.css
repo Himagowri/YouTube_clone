@@ -1,0 +1,38 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    object-fit: contain;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+   
+}
+.header_logo{
+    height: 55px;
+    object-fit: contain;
+    width: 100px;
+    margin-right: 1000px;
+
+}
+.header_middle{
+    display: flex;
+    align-items:center;
+    
+    
+}
+.header_icon{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+    
+}
+ 
+.header_left{
+    align-items: flex-start;
+}
+.row_header{
+    margin:0px auto;
+    padding:0px auto;
+}

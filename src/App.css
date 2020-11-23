@@ -1,0 +1,6 @@
+.app_css {
+    display: flex;
+}
+.videocontent{
+    flex: 0.8;
+}
